@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68440882095",
+    "project_id": "test-fecea",
+    "storage_bucket": "test-fecea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68440882095:android:b8d807d8fbaa16a95d0d5a",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68440882095-sq7kaqrvcmrkp6gprl6aucq47j48i32t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmkWZZjX0pkYI8M5wmsxzEkNKYw-35GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68440882095-sq7kaqrvcmrkp6gprl6aucq47j48i32t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
